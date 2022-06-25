@@ -6,7 +6,10 @@ public static void main(String[] args) {
 
 String r = s.replaceAll("[^0-9]", "");
 System.out.println(r);
+System.out.println("hai");
+
 System.out.println("hai B");
+
 
 }
 }
